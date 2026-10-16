@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+
+        <!-- Outer Headphone Arch -->
+        <path
+            android:pathData="M24,56 C24,37 37,22 54,22 C71,22 84,37 84,56"
+            android:strokeWidth="6.5"
+            android:strokeColor="#1A5F3F"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+
+        <!-- Inner Cushion Arch -->
+        <path
+            android:pathData="M31,52 C33,39 42,28 54,28 C66,28 75,39 77,52"
+            android:strokeWidth="3.0"
+            android:strokeColor="#A7D7B5"
+            android:strokeLineCap="round"
+            android:fillColor="#00000000" />
+
+        <!-- Left Ear Cup Outer -->
+        <path
+            android:pathData="M27,51 A14,14 0 1,0 27,79 A14,14 0 1,0 27,51 Z"
+            android:fillColor="#1A5F3F" />
+
+        <!-- Left Ear Cup Inner Cushion -->
+        <path
+            android:pathData="M27,55 A10,10 0 1,0 27,75 A10,10 0 1,0 27,55 Z"
+            android:fillColor="#0D2418"
+            android:strokeWidth="1.5"
+            android:strokeColor="#60936C" />
+
+        <!-- Pause Symbol in Left Ear Cup -->
+        <path
+            android:pathData="M24.5,60 L24.5,70"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M29.5,60 L29.5,70"
+            android:strokeWidth="2.5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+
+        <!-- Right Ear Cup Outer -->
+        <path
+            android:pathData="M81,51 A14,14 0 1,0 81,79 A14,14 0 1,0 81,51 Z"
+            android:fillColor="#1A5F3F" />
+
+        <!-- Right Ear Cup Inner Cushion -->
+        <path
+            android:pathData="M81,55 A10,10 0 1,0 81,75 A10,10 0 1,0 81,55 Z"
+            android:fillColor="#0D2418"
+            android:strokeWidth="1.5"
+            android:strokeColor="#60936C" />
+
+        <!-- Play Symbol in Right Ear Cup -->
+        <path
+            android:pathData="M78,59.5 L86,65 L78,70.5 Z"
+            android:fillColor="#FFFFFF" />
+
+        <!-- Central Soundwave Bars -->
+        <!-- Bar 1 -->
+        <path
+            android:pathData="M43,60 L43,70"
+            android:strokeWidth="3.0"
+            android:strokeColor="#A7D7B5"
+            android:strokeLineCap="round" />
+        <!-- Bar 2 -->
+        <path
+            android:pathData="M48.5,53 L48.5,77"
+            android:strokeWidth="3.0"
+            android:strokeColor="#C8E8D2"
+            android:strokeLineCap="round" />
+        <!-- Bar 3 (Center) -->
+        <path
+            android:pathData="M54,44 L54,86"
+            android:strokeWidth="3.4"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round" />
+        <!-- Bar 4 -->
+        <path
+            android:pathData="M59.5,53 L59.5,77"
+            android:strokeWidth="3.0"
+            android:strokeColor="#C8E8D2"
+            android:strokeLineCap="round" />
+        <!-- Bar 5 -->
+        <path
+            android:pathData="M65,60 L65,70"
+            android:strokeWidth="3.0"
+            android:strokeColor="#A7D7B5"
+            android:strokeLineCap="round" />
+
+    </group>
+</vector>

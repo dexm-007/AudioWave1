@@ -1,0 +1,6 @@
+{
+  "name": "Audiowave Player",
+  "description": "Fast, battery-efficient, offline audio player with AndroidX Media3 ExoPlayer, Room database, and hardware DSP equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
